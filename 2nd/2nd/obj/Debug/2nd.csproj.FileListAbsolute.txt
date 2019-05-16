@@ -1,0 +1,12 @@
+C:\Users\aceruser\Desktop\C#\2nd\2nd\bin\Debug\2nd.exe.config
+C:\Users\aceruser\Desktop\C#\2nd\2nd\obj\Debug\2nd.csprojResolveAssemblyReference.cache
+C:\Users\aceruser\Desktop\C#\2nd\2nd\obj\Debug\_2nd.Form1.resources
+C:\Users\aceruser\Desktop\C#\2nd\2nd\obj\Debug\_2nd.Properties.Resources.resources
+C:\Users\aceruser\Desktop\C#\2nd\2nd\obj\Debug\2nd.csproj.GenerateResource.Cache
+C:\Users\aceruser\Desktop\C#\2nd\2nd\bin\Debug\2nd.exe
+C:\Users\aceruser\Desktop\C#\2nd\2nd\bin\Debug\2nd.pdb
+C:\Users\aceruser\Desktop\C#\2nd\2nd\obj\Debug\2nd.exe
+C:\Users\aceruser\Desktop\C#\2nd\2nd\obj\Debug\2nd.pdb
+C:\Users\aceruser\Desktop\C#\Criptare.Decriptare\2nd\bin\Debug\2nd.exe.config
+C:\Users\aceruser\Desktop\C#\Criptare.Decriptare\2nd\obj\Debug\2nd.exe
+C:\Users\aceruser\Desktop\C#\Criptare.Decriptare\2nd\obj\Debug\2nd.pdb
